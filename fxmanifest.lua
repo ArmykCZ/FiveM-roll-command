@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'TvéJméno'
+author 'Armyk'
 description 'Jednoduchý /roll příkaz pro RP server'
 version '1.0.0'
 
